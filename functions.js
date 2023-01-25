@@ -37,7 +37,7 @@ document.getElementById("idioma").addEventListener('mouseleave', function(){
 document.getElementById("otro").addEventListener('mousedown', function(){
     document.getElementById('otro').style.background ='black';
 });
-document.getElementById("otro").addEventListener('mouseover', function(){
+document.getElementById("otro").addEventListener('mouseoup', function(){
     document.getElementById('otro').style.background ='white';
 });
 document.getElementById("otro").addEventListener('mouseleave', function(){
